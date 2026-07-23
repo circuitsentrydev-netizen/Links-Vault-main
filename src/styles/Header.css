@@ -1,0 +1,29 @@
+.header {
+  background: linear-gradient(135deg, #1e3a8a, #2563eb);
+  color: #ffffff;
+  padding: 32px 24px;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+}
+
+.header-icon {
+  width: 48px;
+  height: 48px;
+  margin-bottom: 12px;
+}
+
+.header-title {
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+
+.header-tagline {
+  font-size: 1.1rem;
+  color: #dbeafe;
+  opacity: 0.9;
+}
